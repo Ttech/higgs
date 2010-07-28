@@ -1,0 +1,13 @@
+This is the first draft of the 'Higgs' Pastebin -
+It is written in php and uses sqlite
+
+Goals:
+	To provide a HG version controll Pastebin
+	To provide an easy to use interface with syntax
+	hilighting throughout.
+	To provide a clean and easy to understand backend
+	using minimal custom code as possible
+	(at least for version one)
+	To provide a secure area to put pastes
+
+
